@@ -1,4 +1,4 @@
-<h1 align="center">🌒 Duskrise</h1>
+<h1 align="center">🌒 Duskrise Shitted Itself</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6FF&center=true&vCenter=true&width=600&lines=A+Website+Made+for+a+Minecraft+Server;Sadly+the+Server+Was+Cancelled;Built+Using+HTML+%2F+CSS+%2F+JS;Preserved+for+Inspiration+and+Memories" />
