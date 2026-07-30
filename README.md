@@ -16,7 +16,7 @@
 
 **Duskrise** was a stylish website made for a Minecraft server I helped develop.  
 Unfortunately, the server project was **cancelled** before launch...  
-But the website remains — and hey, my skin is still on there if anyone cares 😄
+But the website remains and hey, my skin is still on there if anyone cares 😄
 
 This project is small, clean, and built from scratch using **HTML**, **CSS**, and **JavaScript**, with a few cool animations and UI touches.
 
